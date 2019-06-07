@@ -14,4 +14,4 @@ class App extends Component {
 	}
 }
 
-AppRegistry.registerComponent('Gorillagram', () => App);
+AppRegistry.registerComponent('AppInstagram', () => App);

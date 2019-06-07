@@ -38,7 +38,7 @@ class Home extends Component {
         }
     }
 
-    //NOTE: current available tags on Cloudinary CDN: gorilla, pets, team, presentation, costarica, jam, boulder
+    // NOTA: tags disponíveis atualmente no Cloudinary CDN: gorila, pets, equipe, apresentação, costarica, jam, boulder
     onTagSearchChange(tag) {
         let _tag = '';
         if(tag) {
